@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "name": "Mark Webber",
+      "profilePicture": "/avatar-mark-webber.webp"
+    },
+    "notification": {
+      "type": "reaction",
+      "userPostType": "post",
+      "userPostReactedTo": "My first tournament today!",
+      "timestamp": "1m ago",
+      "read": false
+    }
+  },
+  {
+    "id": 2,
+    "user": {
+      "name": "Angela Gray",
+      "profilePicture": "/avatar-angela-gray.webp"
+    },
+    "notification": {
+      "type": "follow",
+      "timestamp": "5m ago",
+      "read": false
+    }
+  },
+  {
+    "id": 3,
+    "user": {
+      "name": "Jacob Thompson",
+      "profilePicture": "/avatar-jacob-thompson.webp"
+    },
+    "notification": {
+      "type": "joinedGroup",
+      "groupJoined": "Chess Club",
+      "timestamp": "1 day ago",
+      "read": false
+    }
+  },
+  {
+    "id": 4,
+    "user": {
+      "name": "Rizky Hasanuddin",
+      "profilePicture": "/avatar-rizky-hasanuddin.webp"
+    },
+    "notification": {
+      "type": "privateMessage",
+      "messageBody": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "timestamp": "5 days ago",
+      "read": true
+    }
+  },
+  {
+    "id": 5,
+    "user": {
+      "name": "Kimberly Smith",
+      "profilePicture": "/avatar-kimberly-smith.webp"
+    },
+    "notification": {
+      "type": "comment",
+      "userPostType": "picture",
+      "pictureReactedTo": "/image-chess.webp",
+      "timestamp": "1 week ago",
+      "read": true
+    }
+  },
+  {
+    "id": 6,
+    "user": {
+      "name": "Nathan Peterson",
+      "profilePicture": "/avatar-nathan-peterson.webp"
+    },
+    "notification": {
+      "type": "reaction",
+      "userPostType": "post",
+      "userPostReactedTo": "5 end-game strategies to increase your win rate",
+      "timestamp": "2 weeks ago",
+      "read": true
+    }
+  },
+  {
+    "id": 7,
+    "user": {
+      "name": "Anna Kim",
+      "profilePicture": "/avatar-anna-kim.webp"
+    },
+    "notification": {
+      "type": "leave",
+      "groupLeftFrom": "Chess Club",
+      "timestamp": "2 weeks ago",
+      "read": true
+    }
+  }
+]
